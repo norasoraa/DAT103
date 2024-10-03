@@ -84,7 +84,7 @@ public class SimulationTest {
                 "T=30 Scheduled: T6 Ready: T7",
                 "T=31 Scheduled: T6 Ready: T7",
                 "T=32 Scheduled: T7 Ready: ",
-                "T=33 Scheduled: Read: "));
+                "T=33 Scheduled: Ready: "));
     }
 
     @Test
